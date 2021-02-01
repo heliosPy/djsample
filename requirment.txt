@@ -1,0 +1,18 @@
+asgiref==3.3.1
+certifi==2020.12.5
+Django==3.0.11
+django-chartjs==2.2.1
+django-crispy-forms==1.10.0
+django-geojson==3.1.0
+django-leaflet==0.27.1
+geojson==2.5.0
+names==0.3.0
+numpy==1.19.4
+pandas==1.1.5
+psycopg2==2.8.6
+psycopg2-binary==2.8.6
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+six==1.15.0
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+xlrd==1.2.0
